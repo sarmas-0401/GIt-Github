@@ -1,2 +1,3 @@
 name = "SHAIK HUSSAINY SARMASVALI"
-print(name)
+train= "git and github"
+print(name, train)
